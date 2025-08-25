@@ -11,6 +11,7 @@
 
 <img src = "img/13.JPG" width = 50%>
 
+https://github.com/dvbychkov/K8s/blob/master/containers-data-exchange.yaml ссылка на containers-data-exchange.yaml
 
 Задание 2. PV, PVC
 
@@ -27,9 +28,13 @@
 
 Все команды kubectl выполняются на мастер-нодах kub-master1 и kub-master2, а файлы хранятся на тех рабочих нодах kub-worker1, kub-worker2 и kub-worker3, где Kubernetes scheduler размещает поды.
 
+https://github.com/dvbychkov/K8s/blob/master/pv-pvc.yaml ссылка на pv-pvc.yaml
+
 
 Задание 3. StorageClass
 
 <img src = "img/31.JPG" width = 50%>
 
 <img src = "img/32.JPG" width = 50%>
+
+https://github.com/dvbychkov/K8s/blob/master/sc.yaml ссылка на sc.yaml
